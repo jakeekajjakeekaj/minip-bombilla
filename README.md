@@ -1,0 +1,1 @@
+Mini Proyecto orientado a trabajar con events listeners para modificar ciertas propiedades y dar el efecto de apagar y encender una bombilla.
